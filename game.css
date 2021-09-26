@@ -1,0 +1,40 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background:#7B68EE;
+    font-family: cursive;
+    position: relative;
+    text-align: center;
+    
+}
+.test{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#gameCanvas{
+    padding: 20px;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border:0px;
+    background:black;
+    display:inline-block ; 
+    position:relative ;
+    margin: 24px auto;
+    text-align:center;
+    border:2px solid #00CED1;
+    border-radius:19px;
+    padding:8px 10px;
+    margin:10px;
+    width:100px;
+    outline:none ;
+    color:white;
+    cursor:pointer;
+    font-weight:bolder;
+}
